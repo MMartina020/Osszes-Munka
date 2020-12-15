@@ -1,0 +1,67 @@
+header{
+    background-image: url(kepek/un.jpg);
+    width: 100%;
+    height: 100%;
+
+}
+head{
+width:1000px;
+height:800px;
+}
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+    text-shadow:0px -1px 0px #2b665e;
+    text-align: center;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.cardname{
+    color: rgb(255, 255, 255);
+    background-color: rgb(4, 29, 49); 
+    border:2px solid rgb(255, 255, 255);    
+    text-align:center;
+}
+
+.text1{
+    color: rgb(1, 205, 241);       
+    font-family: fantasy;
+    margin: auto;
+    width: 15%;
+    padding: 10px;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    position: static;
+}
+.text2{
+    color: rgb(134, 143, 145);       
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    text-align:center;
+}
+body{
+    background-image: url(kepek/ez.jpg);     
+    background-repeat: no-repeat;
+    
+}
+.card-body{
+    border-radius:5px;
+	border:1px solid #566963;
+}
+   
